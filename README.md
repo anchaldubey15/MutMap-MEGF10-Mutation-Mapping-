@@ -1,7 +1,9 @@
 # MEGF10 Bioinformatics Analysis  
 
 ---
-
+A detailed analysis of MEGF10 gene play curicial role in muscle satellite cell proliferation and differentialtion along with this plays curial part in phygocytosis, cell cleareance etc. Lof (Loss of function)
+of MEGF10 gene in human causes various disorder one of the most prominant one is EMRADD group of disorders related to myopahty. This project throughly evaluate role of MEGF10 protein , it's various motifs  and regions which are responsible for causing diseases also provides the suitable therapeutic intervention.
+---
 ## ⚙️ Tools & Libraries  
 
 ### Databases & Web Tools  
